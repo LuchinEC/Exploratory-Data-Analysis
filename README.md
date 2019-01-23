@@ -1,2 +1,2 @@
 # Exploratory-Data-Analysis
-This Repository contains all Programming assingments of the course Exploratory Data Analysis of Coursera
+This Repository contains all Programming assingments of the course Exploratory Data Analysis of Coursera, The first commit, has the 4 graphics with all the specifications; never the less, I wasn't able to make the last one look exactly as the one tha's published on coursera (it has like some kind of points), I tried with pch but it didn't work. If anyone can tell me how to do it, I would appreciate it so much
